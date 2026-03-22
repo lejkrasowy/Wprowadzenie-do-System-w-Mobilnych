@@ -1,1 +1,1 @@
-## Repozytorium zawierające wykonane laboratoria z Wprowadzenia do Systemów Mobilnych
+## Repozytorium zawierające laboratoria z przedmiotu Wprowadzenie do Systemów Mobilnych
